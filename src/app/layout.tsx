@@ -10,7 +10,7 @@ import '@/styles/paginate.css';
 
 export const metadata = {
   title: {
-    default: {process.env.DEFAULT_TITLE},
+    default: '나우시카',
     template: '%s | 나우시카',
   },
 };
